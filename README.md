@@ -4,9 +4,6 @@ Welcome to my personal developer portfolio! 👋
 
 This portfolio showcases my journey as a **B.Tech Computer Science Engineering student**, my skills, projects, learning journey, and goals in software development and AI/ML.
 
-🌐 **Live Portfolio:** https://manjunath-portfolio123.netlify.app
-
----
 
 ## 👨‍💻 About Me
 
@@ -89,7 +86,6 @@ A clean and responsive restaurant website designed with a simple and user-friend
 * HTML
 * CSS
 
-🔗 **Live Demo:** https://manjunath0031.ccbp.tech
 
 ---
 
@@ -103,7 +99,7 @@ An educational resource platform concept designed to organize and provide easy a
 * Study resources
 * User-friendly interface
 
-🔗 **Live Demo:** https://study-drop.lovable.app
+
 
 ---
 
@@ -118,7 +114,7 @@ A college-focused web application concept for managing student details, subject 
 * Faculty preferences
 * Admin UI
 
-🔗 **Live Demo:** https://faculty-selection-portal.lovable.app
+
 
 ---
 
