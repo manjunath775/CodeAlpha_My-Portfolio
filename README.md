@@ -73,7 +73,6 @@ A responsive image gallery built using HTML, CSS and JavaScript.
 * Smooth interactions
 * Mobile-friendly navigation
 
-🔗 **Live Demo:** https://professional-image-gallery.netlify.app
 
 ---
 
